@@ -1,6 +1,6 @@
-from PyQt5.QtCore import Qt
-from PyQt5.QtWidgets import QApplication, QWidget,QPushButton, QLabel, QVBoxLayout, QHBoxLayout, QRadioButton, QMessageBox
-from random import randint
+#from PyQt5.QtCore import Qt
+#from PyQt5.QtWidgets import QApplication, QWidget,QPushButton, QLabel, QVBoxLayout, QHBoxLayout, QRadioButton, QMessageBox
+#from random import randint
 
 def show_win():
     victory_win = QMessageBox()
